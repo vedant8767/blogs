@@ -1,29 +1,53 @@
 {
   "logo": "/images/logos/logo.svg",
-  "logo_alt": "Chaipress",
+  "logo_alt": "ved",
   "copyright": "2026 Chaipress. All rights reserved.",
   "sections": [
     {
       "title": "Product",
       "links": [
-        { "text": "Features", "link": "/#features" },
-        { "text": "Pricing", "link": "/pricing/" },
-        { "text": "Docs", "link": "/docs/" }
+        {
+          "text": "Features",
+          "link": "/#features"
+        },
+        {
+          "text": "Pricing",
+          "link": "/pricing/"
+        },
+        {
+          "text": "Docs",
+          "link": "/docs/"
+        }
       ]
     },
     {
       "title": "Company",
       "links": [
-        { "text": "About", "link": "/about/" },
-        { "text": "Blog", "link": "#" },
-        { "text": "Careers", "link": "#" }
+        {
+          "text": "About",
+          "link": "/about/"
+        },
+        {
+          "text": "Blog",
+          "link": "#"
+        },
+        {
+          "text": "Careers",
+          "link": "#"
+        }
       ]
     },
     {
       "title": "Legal",
       "links": [
-        { "text": "Privacy", "link": "#" },
-        { "text": "Terms", "link": "#" }
+        {
+          "text": "Privacy",
+          "link": "#"
+        },
+        {
+          "text": "Terms",
+          "link": "#"
+        }
       ]
     }
   ]
